@@ -29,10 +29,7 @@ First clone the repository from Github and switch to the new directory
   git clone git@github.com/USERNAME/{{ project_name }}.git
   cd {{ project_name }}
 ```
-
-Start the app
-
-Run SoKoban.jar
+<span style="font-size:0.5em;">Run SoKoban.jar</span>
 
 
 # Hi, I'm Hassan Ezzeddine! 👋
