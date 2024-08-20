@@ -7,7 +7,7 @@ Old game working on windows. With some interesting maps difficulties created by 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=Myshop+Screenshot+Here)
+![App Screenshot](https://github.com/hassan-ezzeddine96/sokoban/blob/master/resources/sokoban.png?raw=true)
 
 
 ## Built with
@@ -29,7 +29,7 @@ First clone the repository from Github and switch to the new directory
   git clone git@github.com/USERNAME/{{ project_name }}.git
   cd {{ project_name }}
 ```
-<span style="font-size:0.5em;">Run SoKoban.jar</span>
+<span style="font-size:1em;">Run SoKoban.jar</span>
 
 
 # Hi, I'm Hassan Ezzeddine! 👋
